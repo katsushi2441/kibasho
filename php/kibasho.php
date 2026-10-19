@@ -191,6 +191,7 @@ footer{margin-top:40px;border-top:1px solid var(--line);padding:18px 0;font-size
     echo '<footer><div class="wrap">';
     echo '<p>出典：名古屋市教育委員会「<a href="https://www.city.nagoya.jp/kodomo/schools/1016972/1016976.html" rel="noopener">不登校児童生徒を支援する民間団体（施設）連絡会</a>」の参加団体一覧（令和7年8月20日実施）、「<a href="https://www.city.nagoya.jp/kodomo/schools/1016972/1016975.html" rel="noopener">校内の教室以外の居場所づくり</a>」、「<a href="https://www.city.nagoya.jp/kodomo/schools/1015850/1017055.html" rel="noopener">なごやフレンドリーナウ</a>」、「<a href="https://fs-subsidy.city.nagoya.jp/r8/about" rel="noopener">名古屋市フリースクール等利用料補助金ポータルサイト</a>」。団体名・住所・電話番号・ホームページ・メールアドレスは、市の一覧のとおり（各団体の申し出に基づく表記）。' . h(NAME) . 'は株式会社エクスブリッジが作っています。名古屋市の公式のページではありません。</p>';
     echo '<p><a href="https://exbridge.jp/#ref=kibasho">株式会社エクスブリッジ</a>（名古屋・業務システム開発）・<a href="https://xb4g.com/giin/tracker/futoko#ref=kibasho">国会トラッカー 不登校</a>・<a href="' . SITE . '/kseido.php/#ref=kibasho">Kurage 制度ナビ</a></p>';
+    if (ours()) { echo '<p><a href="https://kappstore.exbridge.jp/app.php?id=a2f1706ca3edff6b#ref=kibasho-foot" rel="noopener">このページの一式を自社や団体のサイトに置く（商品ページ・ソースコード付き）</a></p>'; }
     echo '</div></footer>';
     if (ours()) {
         echo '<img src="' . SITE . '/simpletrack.php?t=img&url=' . rawurlencode($url) . '" width="1" height="1" alt="" aria-hidden="true" style="position:absolute;left:-9999px">';
