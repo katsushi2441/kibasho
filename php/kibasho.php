@@ -210,7 +210,7 @@ function km(a,b,c,d){var r=6371,p=Math.PI/180,x=Math.sin((c-a)*p/2)**2+Math.cos(
 function sortBy(lat,lon,label){var best={};P.forEach(function(q){var d=km(lat,lon,q[1],q[2]);if(!(q[0] in best)||d<best[q[0]])best[q[0]]=d;});
 var box=document.getElementById("orgs");if(!box)return;var cs=[].slice.call(box.querySelectorAll(".card"));
 cs.sort(function(a,b){var x=best[a.dataset.id],y=best[b.dataset.id];return (x===undefined?1e9:x)-(y===undefined?1e9:y);});
-cs.forEach(function(c){var d=best[c.dataset.id];var s=c.querySelector(".kmx");if(!s){s=document.createElement("span");s.className="km kmx";c.querySelector("b").after(s);}s.textContent=d===undefined?"（位置なし）":"約"+d.toFixed(1)+"km";box.appendChild(c);});
+cs.forEach(function(c){var d=best[c.dataset.id];var s=c.querySelector(".kmx");if(!s){s=document.createElement("span");s.className="km kmx";c.querySelector(".ku").after(s);}s.textContent=d===undefined?"（位置なし）":"約"+d.toFixed(1)+"km";box.appendChild(c);});
 document.getElementById("msg").textContent=label+"から近い順に並べました（直線距離）。";location.hash="list";}
 document.getElementById("go").onclick=function(){var q=document.getElementById("addr").value.trim();if(!q)return;document.getElementById("msg").textContent="位置を調べています…";
 fetch("https://msearch.gsi.go.jp/address-search/AddressSearch?q="+encodeURIComponent(q)).then(function(r){return r.json();}).then(function(j){if(!j.length){document.getElementById("msg").textContent="住所が見つかりませんでした。区や町名から入れてみてください。";return;}var c=j[0].geometry.coordinates;sortBy(c[1],c[0],j[0].properties.title);}).catch(function(){document.getElementById("msg").textContent="住所の検索に失敗しました。時間をおいてお試しください。";});};
