@@ -1,0 +1,4 @@
+outputs/
+__pycache__/
+# 名古屋市の元資料（PDF・HTML）は手元で取り直す。リポジトリには入れない
+data/src/

@@ -1,0 +1,794 @@
+{
+ "source": {
+  "title": "令和7年8月20日(水)実施「不登校児童生徒を支援する民間団体（施設）連絡会」に参加した団体一覧",
+  "publisher": "名古屋市教育委員会事務局 新しい学校づくり推進課",
+  "page": "https://www.city.nagoya.jp/kodomo/schools/1016972/1016976.html",
+  "pdf": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/016/976/sankadanntai3.pdf",
+  "fetched": "2026-10-19"
+ },
+ "items": [
+  {
+   "id": "r01",
+   "name": "一般社団法人 アーレの樹バロ",
+   "locations": [
+    {
+     "label": "",
+     "zip": "470-0133",
+     "addr": "愛知県日進市梅森台4-66",
+     "ku": "市外",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-807-2585"
+   ],
+   "url": "https://aarrenoki.com/",
+   "mail": []
+  },
+  {
+   "id": "r02",
+   "name": "愛知シュタイナー学園",
+   "locations": [
+    {
+     "label": "",
+     "zip": "470-0115",
+     "addr": "愛知県日進市折戸町笠寺山42-13",
+     "ku": "市外",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "0561-76-3713"
+   ],
+   "url": "https://www.aichi-steiner.org",
+   "mail": [
+    "aichisteinerschool@nifty.com"
+   ]
+  },
+  {
+   "id": "r03",
+   "name": "一般社団法人 愛知ＰＦＳ協会",
+   "locations": [
+    {
+     "label": "",
+     "zip": "460-0011",
+     "addr": "名古屋市中区大須一丁目２１番３５号",
+     "ku": "中区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-228-0280"
+   ],
+   "url": "https://aichi-pfs.org/",
+   "mail": [
+    "info@aichi-pfs.org"
+   ]
+  },
+  {
+   "id": "r04",
+   "name": "飛鳥未来 中等部・初等部 名古屋教室",
+   "locations": [
+    {
+     "label": "",
+     "zip": "453-0013",
+     "addr": "名古屋市中村区亀島1-10-22 新晃ビル1階",
+     "ku": "中村区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-433-3525"
+   ],
+   "url": "https://www.sanko.ac.jp/asuka-fs/nagoya/",
+   "mail": [
+    "info-nagoya-freeschool@sanko.ac.jp"
+   ]
+  },
+  {
+   "id": "r05",
+   "name": "あすなろkids 高畑校・豊国校",
+   "locations": [
+    {
+     "label": "高畑校",
+     "zip": "454-0927",
+     "addr": "名古屋市中川区打中2丁目172番地",
+     "ku": "中川区",
+     "approx": false
+    },
+    {
+     "label": "豊国校",
+     "zip": "453-0853",
+     "addr": "名古屋市中村区牛田通1丁目23番地 マンションエトワール1 203号",
+     "ku": "中村区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "（高畑校）052-870-3610",
+    "（豊国校）052-471-3338"
+   ],
+   "url": "https://asunaro-kids.com/",
+   "mail": [
+    "info@asunaro-kids.com"
+   ]
+  },
+  {
+   "id": "r06",
+   "name": "おおぞら高等学院 名古屋キャンパス",
+   "locations": [
+    {
+     "label": "",
+     "zip": "453-0015",
+     "addr": "名古屋市中村区椿町12-7 2F",
+     "ku": "中村区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "0120-75-1105"
+   ],
+   "url": "https://ohzora.net/",
+   "mail": [
+    "info@ktc-school.com"
+   ]
+  },
+  {
+   "id": "r07",
+   "name": "NPO法人子ども支援室カシオペア フリースクールカシオペア",
+   "locations": [
+    {
+     "label": "",
+     "zip": "456-0024",
+     "addr": "名古屋市熱田区森後町7-14 沼田ビル3階",
+     "ku": "熱田区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-228-0842"
+   ],
+   "url": "http://kodomosien.nagoya/",
+   "mail": [
+    "kodomosien@gmail.com"
+   ]
+  },
+  {
+   "id": "r08",
+   "name": "学研WILL学園 名古屋キャンパス",
+   "locations": [
+    {
+     "label": "",
+     "zip": "460-0008",
+     "addr": "名古屋市中区栄2-1-21サンシャイン伏見ビル5F",
+     "ku": "中区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-433-2575"
+   ],
+   "url": "https://www.willschool.net/",
+   "mail": [
+    "w-nagoya@kame.co.jp"
+   ]
+  },
+  {
+   "id": "r09",
+   "name": "株式会社キズキ",
+   "locations": [],
+   "tel": [],
+   "url": "https://kizuki-corp.com/",
+   "mail": [
+    "komin_nagoya@kizuki.or.jp"
+   ]
+  },
+  {
+   "id": "r10",
+   "name": "クラーク国際中等部 名古屋キャンパス",
+   "locations": [
+    {
+     "label": "",
+     "zip": "450-0002",
+     "addr": "名古屋市中村区名駅3-12-12 竹生ビル1F",
+     "ku": "中村区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-462-8081"
+   ],
+   "url": "https://clark-jr.jp/campus/nagoya/",
+   "mail": []
+  },
+  {
+   "id": "r11",
+   "name": "クリア高等学院 フリースクール部",
+   "locations": [
+    {
+     "label": "",
+     "zip": "497-0040",
+     "addr": "愛知県海部郡蟹江町城2丁目431番地 カニエ中央ハイツ1階",
+     "ku": "市外",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "0567-31-9431"
+   ],
+   "url": "https://www.recuperation.co.jp/cleargakuin.html",
+   "mail": [
+    "cleargakuin@recuperation.co.jp"
+   ]
+  },
+  {
+   "id": "r12",
+   "name": "ココノハーツ名古屋 鳴海教室",
+   "locations": [
+    {
+     "label": "",
+     "zip": "458-0037",
+     "addr": "名古屋市緑区潮見が丘2-203 2階",
+     "ku": "緑区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-896-3115"
+   ],
+   "url": "",
+   "mail": []
+  },
+  {
+   "id": "r13",
+   "name": "サミットスクール",
+   "locations": [
+    {
+     "label": "",
+     "zip": "460-0008",
+     "addr": "名古屋市中区栄5-23-8 6階",
+     "ku": "中区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-238-6003"
+   ],
+   "url": "",
+   "mail": [
+    "summitschool@ymail.ne.jp"
+   ]
+  },
+  {
+   "id": "r14",
+   "name": "株式会社グローバルベース サムエルガーデン",
+   "locations": [],
+   "tel": [],
+   "url": "",
+   "mail": []
+  },
+  {
+   "id": "r15",
+   "name": "株式会社スターシャル教育研究所 Study＊Cafe千種",
+   "locations": [
+    {
+     "label": "",
+     "zip": "464-0856",
+     "addr": "名古屋市千種区吹上2-4-25 トラフィック吹上5階",
+     "ku": "千種区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "080-4206-0436"
+   ],
+   "url": "",
+   "mail": [
+    "dayservice@studycafe.jp"
+   ]
+  },
+  {
+   "id": "r16",
+   "name": "ステラBASE千種校",
+   "locations": [
+    {
+     "label": "",
+     "zip": "464-0850",
+     "addr": "名古屋市千種区今池2-1-6 千種橋ビル5階A号",
+     "ku": "千種区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "0120-994-946"
+   ],
+   "url": "https://www.stella-base.com",
+   "mail": [
+    "fs@stella-base.com"
+   ]
+  },
+  {
+   "id": "r17",
+   "name": "児童デイサービス すぽーる",
+   "locations": [
+    {
+     "label": "",
+     "zip": "463-0072",
+     "addr": "名古屋市守山区金屋２丁目243-1",
+     "ku": "守山区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-758-6275"
+   ],
+   "url": "https://mirai614spout.jimdofree.com",
+   "mail": [
+    "mirai614miyabi@gmail.com"
+   ]
+  },
+  {
+   "id": "r18",
+   "name": "スマイルスパリゾート",
+   "locations": [
+    {
+     "label": "",
+     "zip": "455-0887",
+     "addr": "名古屋市港区福田2-912",
+     "ku": "港区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "070-1467-7992"
+   ],
+   "url": "https://smile.sparesort.egaosakuoka.org/index.php",
+   "mail": [
+    "smile.sparesort@egaosakuoka.org"
+   ]
+  },
+  {
+   "id": "r19",
+   "name": "株式会社すららネット",
+   "locations": [
+    {
+     "label": "",
+     "zip": "",
+     "addr": "オンライン",
+     "ku": "オンライン",
+     "approx": true
+    }
+   ],
+   "tel": [],
+   "url": "https://surala.jp/",
+   "mail": [
+    "https://surala.jp/school/contact-form/"
+   ]
+  },
+  {
+   "id": "r20",
+   "name": "ゼミの杜 ゼミの杜Ⅱ",
+   "locations": [
+    {
+     "label": "ゼミの杜",
+     "zip": "468-0011",
+     "addr": "名古屋市天白区平針1-1907 ほっと平針2A",
+     "ku": "天白区",
+     "approx": false
+    },
+    {
+     "label": "ゼミの杜Ⅱ",
+     "zip": "468-0004",
+     "addr": "名古屋市天白区梅が丘1-114A室",
+     "ku": "天白区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-848-6061",
+    "052-715-9251"
+   ],
+   "url": "https://zeminomori.com/",
+   "mail": [
+    "dayservice@zeminomori.com",
+    "dayservice02@zeminomori.com"
+   ]
+  },
+  {
+   "id": "r21",
+   "name": "NPO法人 ふぁみりぃ・らぼ フリースクールtetote",
+   "locations": [
+    {
+     "label": "",
+     "zip": "",
+     "addr": "愛知県稲沢市内",
+     "ku": "市外",
+     "approx": true
+    }
+   ],
+   "tel": [
+    "090-7041-5665"
+   ],
+   "url": "https://www.instagram.com/space_tetote",
+   "mail": [
+    "fs.inazawa@gmail.com"
+   ]
+  },
+  {
+   "id": "r22",
+   "name": "フリースペースでらねこ",
+   "locations": [
+    {
+     "label": "",
+     "zip": "464-0858",
+     "addr": "名古屋市千種区千種２丁目9-20西念寺内",
+     "ku": "千種区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-731-4701／080-5365-2314"
+   ],
+   "url": "https://sainenzi9.wixsite.com/deraneko",
+   "mail": [
+    "jisyouchang@icloud.com"
+   ]
+  },
+  {
+   "id": "r23",
+   "name": "株式会社トライグループ 行政事業部",
+   "locations": [
+    {
+     "label": "",
+     "zip": "464-0075",
+     "addr": "名古屋市千種区内山3-30-9 nonoha千種2F",
+     "ku": "千種区",
+     "approx": false
+    }
+   ],
+   "tel": [],
+   "url": "https://www.trygroup.co.jp/study-support/",
+   "mail": [
+    "try-gyosei-cyukyo@trygroup.com"
+   ]
+  },
+  {
+   "id": "r24",
+   "name": "ドリームズ21st",
+   "locations": [
+    {
+     "label": "",
+     "zip": "461-0025",
+     "addr": "名古屋市東区徳川一丁目14-1 徳川ビル5階",
+     "ku": "東区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-908-7688"
+   ],
+   "url": "https://dreams21st.sodatsu.jp/",
+   "mail": [
+    "tokugawa@sodatsu.jp",
+    "matsubara@sodatsu.jp",
+    "chiyoda@sodatsu.jp"
+   ]
+  },
+  {
+   "id": "r25",
+   "name": "名古屋敬進高等学院",
+   "locations": [
+    {
+     "label": "",
+     "zip": "468-0073",
+     "addr": "名古屋市天白区塩釜口1-825-1",
+     "ku": "天白区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-880-5180"
+   ],
+   "url": "https://nagoya-keishin.jp/",
+   "mail": [
+    "keishin@at-mhk.jp"
+   ]
+  },
+  {
+   "id": "r26",
+   "name": "のとよーび名古屋",
+   "locations": [
+    {
+     "label": "",
+     "zip": "460-0008",
+     "addr": "名古屋市中区栄2-7-15 白川ビル2階",
+     "ku": "中区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-212-7810"
+   ],
+   "url": "https://notoyoobe.notocolle.com/nagoya/",
+   "mail": [
+    "notoyoobe-nagoya@notocolle.co.jp"
+   ]
+  },
+  {
+   "id": "r27",
+   "name": "金山覚王山 ノビルスクール",
+   "locations": [
+    {
+     "label": "",
+     "zip": "",
+     "addr": "名古屋市中区金山 付近",
+     "ku": "中区",
+     "approx": true
+    }
+   ],
+   "tel": [
+    "070-1660-8880"
+   ],
+   "url": "https://nobiruschool.jimdosite.com/",
+   "mail": [
+    "mariko.mizuno.aichi@gmail.com"
+   ]
+  },
+  {
+   "id": "r28",
+   "name": "ぱれっと（東風の会）",
+   "locations": [
+    {
+     "label": "",
+     "zip": "462-0803",
+     "addr": "名古屋市北区上飯田東町1-18-1 東町交流センター",
+     "ku": "北区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-910-3066"
+   ],
+   "url": "",
+   "mail": [
+    "y-sato-meihoku@abelia.ocn.ne.jp"
+   ]
+  },
+  {
+   "id": "r29",
+   "name": "ひのまるキッズ YUMEスクール 名古屋中央校",
+   "locations": [
+    {
+     "label": "",
+     "zip": "450-0003",
+     "addr": "名古屋市中村区名駅南一丁目3-17",
+     "ku": "中村区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-485-4455"
+   ],
+   "url": "https://school.yume.support/nagoyachuo/",
+   "mail": [
+    "yumenagoyachuo@gmail.com"
+   ]
+  },
+  {
+   "id": "r30",
+   "name": "一般社団法人 不登校支援センター",
+   "locations": [
+    {
+     "label": "",
+     "zip": "460-0003",
+     "addr": "名古屋市中区錦一丁目7-44 NPGビル8階",
+     "ku": "中区",
+     "approx": false
+    }
+   ],
+   "tel": [],
+   "url": "https://www.futoukou119.or.jp/",
+   "mail": [
+    "info@futoukou119.or.jp"
+   ]
+  },
+  {
+   "id": "r31",
+   "name": "児童デイサービス ほーぷふる",
+   "locations": [
+    {
+     "label": "",
+     "zip": "497-0046",
+     "addr": "愛知県海部郡蟹江町旭二丁目50番地",
+     "ku": "市外",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "0567-74-5783"
+   ],
+   "url": "https://jidou-day-hopeful.com/",
+   "mail": [
+    "hopeful@re.commufa.jp"
+   ]
+  },
+  {
+   "id": "r32",
+   "name": "学びの森個別支援室 瑞穂",
+   "locations": [
+    {
+     "label": "",
+     "zip": "467-0843",
+     "addr": "名古屋市瑞穂区土市町2-27ツインズ新瑞橋B1F",
+     "ku": "瑞穂区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-842-9510"
+   ],
+   "url": "",
+   "mail": []
+  },
+  {
+   "id": "r33",
+   "name": "一般社団法人 デモクラティックスクール まんじぇ",
+   "locations": [
+    {
+     "label": "",
+     "zip": "481-0001",
+     "addr": "愛知県北名古屋市六ツ師1010-111",
+     "ku": "市外",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "0568-70-0399"
+   ],
+   "url": "https://manje.info/",
+   "mail": [
+    "democraticmanje@gmail.com"
+   ]
+  },
+  {
+   "id": "r34",
+   "name": "フリースクール もこっち",
+   "locations": [
+    {
+     "label": "",
+     "zip": "",
+     "addr": "名古屋市昭和区",
+     "ku": "昭和区",
+     "approx": true
+    }
+   ],
+   "tel": [
+    "090-5156-7672"
+   ],
+   "url": "https://mokocchi1015.hp.peraichi.com/",
+   "mail": [
+    "mokkochi1014@gmail.com"
+   ]
+  },
+  {
+   "id": "r35",
+   "name": "NPO法人なごやAsoviva（フリースクール やごっち、畑のフリースクール【あそびばfun farm】、やごっちStudy）",
+   "locations": [
+    {
+     "label": "",
+     "zip": "",
+     "addr": "名古屋市昭和区（鶴舞線・川名駅より徒歩5分程）",
+     "ku": "昭和区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "080-6110-8879（平日9:30-15:00 ただし電話に出れないことが多いので メールでの問い合わせをお願いします）"
+   ],
+   "url": "https://nagoya-asoviva.jp/",
+   "mail": [
+    "yagochi@nagoya-asoviva.jp"
+   ]
+  },
+  {
+   "id": "r36",
+   "name": "ゆいまーる学園",
+   "locations": [
+    {
+     "label": "",
+     "zip": "466-0064",
+     "addr": "名古屋市昭和区鶴舞3-4-3 富田ビル2F",
+     "ku": "昭和区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-732-0180"
+   ],
+   "url": "https://yuima.jp/",
+   "mail": [
+    "yuima@agz.jp"
+   ]
+  },
+  {
+   "id": "r37",
+   "name": "チャイルドアカデミー 友学舎高蔵寺",
+   "locations": [
+    {
+     "label": "",
+     "zip": "487-0013",
+     "addr": "愛知県春日井市高蔵寺町4丁目2-10",
+     "ku": "市外",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "080-9895-4087"
+   ],
+   "url": "https://yuugakusha.wixsite.com/yuugakusha",
+   "mail": [
+    "yuugakusha.kouzouji@gmail.com"
+   ]
+  },
+  {
+   "id": "r38",
+   "name": "ルネ中等部 名古屋校",
+   "locations": [
+    {
+     "label": "",
+     "zip": "460-0008",
+     "addr": "名古屋市中区栄3-18-1 ナディアパークビジネスセンター10F",
+     "ku": "中区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-228-7370"
+   ],
+   "url": "https://www.r-ac.jp/junior/",
+   "mail": [
+    "https://www.r-ac.jp/junior/contact/（お問い合わせフォーム）"
+   ]
+  },
+  {
+   "id": "r39",
+   "name": "大地の学校ロータス",
+   "locations": [
+    {
+     "label": "",
+     "zip": "444-3524",
+     "addr": "愛知県岡崎市竜泉寺町百々13",
+     "ku": "市外",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "080-5182-4832"
+   ],
+   "url": "https://daichi-no-gakkou.com",
+   "mail": [
+    "daichi-no-gakkou@icloud.jp"
+   ]
+  },
+  {
+   "id": "r40",
+   "name": "合同会社ロシナンテ",
+   "locations": [
+    {
+     "label": "",
+     "zip": "464-0086",
+     "addr": "名古屋市千種区萱場2-12-24",
+     "ku": "千種区",
+     "approx": false
+    }
+   ],
+   "tel": [
+    "052-880-0420"
+   ],
+   "url": "https://roci-roci.com",
+   "mail": [
+    "info@roci-roci.com"
+   ]
+  }
+ ]
+}
